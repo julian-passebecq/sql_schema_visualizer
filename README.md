@@ -25,7 +25,7 @@ Originally built for [the SQL Habit course](https://www.sqlhabit.com/), it's ava
 <br>
 :rocket: **Make it yours**: you get the whole React app, so you can change everything.
 
-## How to visualize your schema(s)
+## How to visualize your schema(s) 
 
 Schema Visualizer can visualize multiple schemas – each schema will have its own URL.
 
